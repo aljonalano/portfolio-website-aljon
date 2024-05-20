@@ -19,19 +19,23 @@ export default function About() {
     >
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
-        After graduating with a degree in{" "}
-        <span className="font-medium">Accounting</span>, I decided to pursue my
-        passion for programming. I enrolled in a coding bootcamp and learned{" "}
-        <span className="font-medium">full-stack web development</span>.{" "}
-        <span className="italic">My favorite part of programming</span> is the
-        problem-solving aspect. I <span className="underline">love</span> the
-        feeling of finally figuring out a solution to a problem. My core stack
-        is{" "}
+        I'm Aljon, a graduate with a degree in{" "}
+        <span className="font-medium">BSIT</span>, My first job was in IT
+        (hardware), but my dream has always been to become a programmer. After
+        resigning from my first job, I had a hard time finding a programming
+        position, so I applied for a job as an IT Data Analyst instead.I worked
+        in that role for four years but still wanted to pursue my passion for
+        programming.
+        <span className="font-medium">
+          {" "}
+          Fortunately, a college friend informed me about a programmer trainee
+          position, and I got the opportunity to start programming again.
+        </span>
         <span className="font-medium">
           React, Next.js, Node.js, and MongoDB
         </span>
-        . I am also familiar with TypeScript and Prisma. I am always looking to
-        learn new technologies. I am currently looking for a{" "}
+        . I am also familiar with TypeScript. I am always looking to learn new
+        technologies. I am currently looking for a{" "}
         <span className="font-medium">full-time position</span> as a software
         developer.
       </p>
