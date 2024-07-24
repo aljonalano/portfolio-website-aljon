@@ -66,6 +66,7 @@ export const projectsData = [
       "We are developing a new website for our company to enhance our online presence and improve customer engagement.",
     tags: ["React", "Next.js", "Wordpress", "Bootstrap", "Bot Messenger"],
     imageUrl: pragImg,
+    websiteUrl: "https://www.pragmanila.com",
   },
   {
     title: "FSC (UnionBank of the Philippines)",
@@ -73,6 +74,7 @@ export const projectsData = [
       "We are developing a webpage for UnionBank's product to provide clients with essential information and easy application access.",
     tags: ["React", "Redux", "Material UI", "Boostrap"],
     imageUrl: ubpImg,
+    websiteUrl: "https://portal.unionbankph.com/business/Login",
   },
 ] as const;
 
